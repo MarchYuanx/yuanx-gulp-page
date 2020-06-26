@@ -1,16 +1,15 @@
 {
   "name": "yuanx-gulp-page",
-  "version": "0.1.3",
-  "description": "Awesome node module",
+  "version": "0.1.4",
+  "description": "HTML scaffold based on gulp",
   "keywords": [
     "yuanx-gulp-page",
     "marchyuanx",
-    "gulp",
     "zce"
   ],
-  "homepage": "https://gitee.com/MarchYuanx/yuanx-gulp-page#readme",
+  "homepage": "https://github.com/MarchYuanx/yuanx-gulp-page#readme",
   "bugs": {
-    "url": "https://gitee.com/MarchYuanx/yuanx-gulp-page/issues"
+    "url": "https://github.com/MarchYuanx/yuanx-gulp-page/issues"
   },
   "license": "MIT",
   "author": "MarchYuanx <592302815@qq.com>",
@@ -25,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/MarchYuanx/yuanx-gulp-page.git"
+    "url": "git+https://github.com/MarchYuanx/yuanx-gulp-page.git"
   },
   "scripts": {
     "lint": "standard --fix"
