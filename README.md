@@ -19,10 +19,16 @@ $ yarn add yuanx-gulp-page
 ## Usage
 ```
 yuanx-gulp-page clean
+//Clean the dist & temp files.
 
-yuanx-gulp-page develop
+yuanx-gulp-page compile
+//Compile the styles & scripts & pages file.
+
+yuanx-gulp-page dev
+//Runs the app in development mode with a automated server.
 
 yuanx-gulp-page build
+//Builds the app for production to the dist folder. It minify source in production mode for the best performance.
 ```
 
 ## Folder Structure
